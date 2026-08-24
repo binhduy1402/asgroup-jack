@@ -8,8 +8,8 @@ import collection4 from "./assets/collection/collection4.jpg";
 export const BRAND_INFO = {
   name: "AS Group",
   tagline: "Heritage & Grace",
-  hotline: "0903 731 769",
-  email: "tina@asgroup.vn",
+  hotline: "0852 027 912 - Mr. Jack",
+  email: "sales5@asgroup.com.vn",
   address: "District 2, Ho Chi Minh City, VietNam",
 };
 
