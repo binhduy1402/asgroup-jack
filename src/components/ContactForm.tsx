@@ -95,7 +95,7 @@ export default function ContactForm({ prefilledProduct, onClearPrefill }: Contac
     setErrMessage("");
 
     try {
-      const response = await fetch("https://duynpb4.app.n8n.cloud/webhook-test/asgroup-jack", {
+      const response = await fetch("https://duynpb4.app.n8n.cloud/webhook/asgroup-jack", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
